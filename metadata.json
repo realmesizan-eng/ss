@@ -1,0 +1,6 @@
+{
+  "name": "শিখি",
+  "description": "বাংলা ও ইংরেজি বর্ণমালা, হাতে খড়ি, পড়া, শব্দভাণ্ডার, কুইজ ও এআই শিক্ষকের সাথে ধাপে ধাপে শেখার অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

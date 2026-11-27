@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">শিখি</string>
+    <string name="tab_learn">শিখুন</string>
+    <string name="tab_camera">লাইভ ক্যামেরা</string>
+    <string name="tab_ai_tutor">এআই শিক্ষক</string>
+    <string name="tab_profile">প্রোফাইল</string>
+    <string name="todays_goal">আজকের লক্ষ্য</string>
+    <string name="premium_title">শিখি প্রিমিয়াম</string>
+    <string name="admin_panel_title">এডমিন পেনেল</string>
+</resources>

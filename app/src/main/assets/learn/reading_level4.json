@@ -1,0 +1,47 @@
+{
+  "level": 4,
+  "titleBn": "স্তর ৪: ছোট বাক্য",
+  "isPremium": true,
+  "lessons": [
+    {
+      "id": "r4_1",
+      "title": "দৈনন্দিন কথা",
+      "text": "আমি ভাত খাই। মা বাজারে যান। বাবা বই পড়েন।",
+      "words": [
+        {"word": "ভাত", "meaning": "Rice", "emoji": "🍚"},
+        {"word": "বাজার", "meaning": "Market", "emoji": "🛒"},
+        {"word": "বই", "meaning": "Book", "emoji": "📖"}
+      ]
+    },
+    {
+      "id": "r4_2",
+      "title": "প্রকৃতি ও সকাল",
+      "text": "সূর্য পূর্ব দিকে ওঠে। পাখি আকাশে ওড়ে। গাছে সবুজ পাতা দোলে।",
+      "words": [
+        {"word": "সূর্য", "meaning": "Sun", "emoji": "☀️"},
+        {"word": "আকাশ", "meaning": "Sky", "emoji": "🌤️"},
+        {"word": "পাতা", "meaning": "Leaf", "emoji": "🍃"}
+      ]
+    },
+    {
+      "id": "r4_3",
+      "title": "স্কুল ও বন্ধু",
+      "text": "আমরা প্রতিদিন স্কুলে যাই। শিক্ষক নতুন পাঠ শেখান। সব বন্ধু মিলে খেলি।",
+      "words": [
+        {"word": "স্কুল", "meaning": "School", "emoji": "🏫"},
+        {"word": "শিক্ষক", "meaning": "Teacher", "emoji": "👩‍🏫"},
+        {"word": "বন্ধু", "meaning": "Friend", "emoji": "🤝"}
+      ]
+    },
+    {
+      "id": "r4_4",
+      "title": "পরিচ্ছন্নতা ও স্বাস্থ্য",
+      "text": "সকালে দাঁত মাজতে হয়। হাত ধুয়ে খাবার খাই। পরিষ্কার পানি পান করি।",
+      "words": [
+        {"word": "দাঁত", "meaning": "Teeth", "emoji": "🦷"},
+        {"word": "খাবার", "meaning": "Food", "emoji": "🍲"},
+        {"word": "পানি", "meaning": "Water", "emoji": "💧"}
+      ]
+    }
+  ]
+}

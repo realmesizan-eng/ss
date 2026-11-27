@@ -1,0 +1,51 @@
+{
+  "level": 2,
+  "titleBn": "স্তর ২: কার যুক্ত শব্দ",
+  "isPremium": false,
+  "lessons": [
+    {
+      "id": "r2_1",
+      "title": "আম ও মাছ",
+      "text": "আম মাছ পাখি দুধ।",
+      "words": [
+        {"word": "আম", "meaning": "Mango", "emoji": "🥭"},
+        {"word": "মাছ", "meaning": "Fish", "emoji": "🐟"},
+        {"word": "পাখি", "meaning": "Bird", "emoji": "🐦"},
+        {"word": "দুধ", "meaning": "Milk", "emoji": "🥛"}
+      ]
+    },
+    {
+      "id": "r2_2",
+      "title": "ফুল ও নদী",
+      "text": "ফুল নদী চাঁদ মেঘ।",
+      "words": [
+        {"word": "ফুল", "meaning": "Flower", "emoji": "🌸"},
+        {"word": "নদী", "meaning": "River", "emoji": "🌊"},
+        {"word": "চাঁদ", "meaning": "Moon", "emoji": "🌙"},
+        {"word": "মেঘ", "meaning": "Cloud", "emoji": "☁️"}
+      ]
+    },
+    {
+      "id": "r2_3",
+      "title": "আকাশ ও নৌকা",
+      "text": "আকাশ নৌকা বাগান ঘড়ি।",
+      "words": [
+        {"word": "আকাশ", "meaning": "Sky", "emoji": "🌤️"},
+        {"word": "নৌকা", "meaning": "Boat", "emoji": "⛵"},
+        {"word": "বাগান", "meaning": "Garden", "emoji": "🏡"},
+        {"word": "ঘড়ি", "meaning": "Clock", "emoji": "⏰"}
+      ]
+    },
+    {
+      "id": "r2_4",
+      "title": "বইমেলা ও ছবি",
+      "text": "ছবি মালা সাগর পাখা।",
+      "words": [
+        {"word": "ছবি", "meaning": "Picture", "emoji": "🖼️"},
+        {"word": "মালা", "meaning": "Garland", "emoji": "📿"},
+        {"word": "সাগর", "meaning": "Sea", "emoji": "🌊"},
+        {"word": "পাখা", "meaning": "Fan / Wing", "emoji": "🪶"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "level": 1,
+  "titleBn": "স্তর ১: দুই অক্ষরের সহজ শব্দ",
+  "isPremium": false,
+  "lessons": [
+    {
+      "id": "r1_1",
+      "title": "জল ও কল",
+      "text": "জল কল ঘর বই।",
+      "words": [
+        {"word": "জল", "meaning": "Water", "emoji": "💧"},
+        {"word": "কল", "meaning": "Tap", "emoji": "🚰"},
+        {"word": "ঘর", "meaning": "Room / Home", "emoji": "🏠"},
+        {"word": "বই", "meaning": "Book", "emoji": "📖"}
+      ]
+    },
+    {
+      "id": "r1_2",
+      "title": "ফল ও বন",
+      "text": "ফল মন পথ বন।",
+      "words": [
+        {"word": "ফল", "meaning": "Fruit", "emoji": "🍎"},
+        {"word": "মন", "meaning": "Mind", "emoji": "💛"},
+        {"word": "পথ", "meaning": "Path", "emoji": "🛤️"},
+        {"word": "বন", "meaning": "Forest", "emoji": "🌳"}
+      ]
+    },
+    {
+      "id": "r1_3",
+      "title": "রথ ও বক",
+      "text": "রথ বক দশ নদ।",
+      "words": [
+        {"word": "রথ", "meaning": "Chariot", "emoji": "🛞"},
+        {"word": "বক", "meaning": "Heron", "emoji": "🦩"},
+        {"word": "দশ", "meaning": "Ten", "emoji": "🔟"},
+        {"word": "নদ", "meaning": "River", "emoji": "🌊"}
+      ]
+    },
+    {
+      "id": "r1_4",
+      "title": "গম ও ধন",
+      "text": "গম ধন মগ টব।",
+      "words": [
+        {"word": "গম", "meaning": "Wheat", "emoji": "🌾"},
+        {"word": "ধন", "meaning": "Wealth", "emoji": "💰"},
+        {"word": "মগ", "meaning": "Mug", "emoji": "☕"},
+        {"word": "টব", "meaning": "Flower pot", "emoji": "🪴"}
+      ]
+    },
+    {
+      "id": "r1_5",
+      "title": "রস ও শখ",
+      "text": "রস শখ ঝড় রব।",
+      "words": [
+        {"word": "রস", "meaning": "Juice", "emoji": "🧃"},
+        {"word": "শখ", "meaning": "Hobby", "emoji": "🎨"},
+        {"word": "ঝড়", "meaning": "Storm", "emoji": "🌪️"},
+        {"word": "রব", "meaning": "Sound", "emoji": "🔊"}
+      ]
+    }
+  ]
+}

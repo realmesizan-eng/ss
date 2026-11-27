@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": "animals_bn",
+      "titleBn": "প্রাণী ও পাখি",
+      "emoji": "🦁",
+      "words": [
+        {"word": "বাঘ", "meaningEn": "Tiger", "pronEn": "Bagh", "emoji": "🐯"},
+        {"word": "সিংহ", "meaningEn": "Lion", "pronEn": "Singho", "emoji": "🦁"},
+        {"word": "হাতি", "meaningEn": "Elephant", "pronEn": "Hati", "emoji": "🐘"},
+        {"word": "হরিণ", "meaningEn": "Deer", "pronEn": "Horin", "emoji": "🦌"},
+        {"word": "খরগোশ", "meaningEn": "Rabbit", "pronEn": "Khorgosh", "emoji": "🐇"},
+        {"word": "দোয়েল", "meaningEn": "Magpie Robin", "pronEn": "Doyel", "emoji": "🐦"},
+        {"word": "ময়ূর", "meaningEn": "Peacock", "pronEn": "Moyur", "emoji": "🦚"},
+        {"word": "টিয়া", "meaningEn": "Parrot", "pronEn": "Tiya", "emoji": "🦜"}
+      ]
+    },
+    {
+      "id": "nature_bn",
+      "titleBn": "প্রকৃতি ও ঋতু",
+      "emoji": "🌿",
+      "words": [
+        {"word": "নদী", "meaningEn": "River", "pronEn": "Nodi", "emoji": "🌊"},
+        {"word": "আকাশ", "meaningEn": "Sky", "pronEn": "Akash", "emoji": "🌤️"},
+        {"word": "সূর্য", "meaningEn": "Sun", "pronEn": "Surjo", "emoji": "☀️"},
+        {"word": "চাঁদ", "meaningEn": "Moon", "pronEn": "Chand", "emoji": "🌙"},
+        {"word": "তারা", "meaningEn": "Star", "pronEn": "Tara", "emoji": "⭐"},
+        {"word": "বৃষ্টি", "meaningEn": "Rain", "pronEn": "Brishti", "emoji": "🌧️"},
+        {"word": "ফুল", "meaningEn": "Flower", "pronEn": "Phul", "emoji": "🌸"},
+        {"word": "পাহাড়", "meaningEn": "Mountain", "pronEn": "Pahar", "emoji": "⛰️"}
+      ]
+    },
+    {
+      "id": "fruits_bn",
+      "titleBn": "ফল ও খাবার",
+      "emoji": "🥭",
+      "words": [
+        {"word": "আম", "meaningEn": "Mango", "pronEn": "Aam", "emoji": "🥭"},
+        {"word": "কাঁঠাল", "meaningEn": "Jackfruit", "pronEn": "Kathal", "emoji": "🍈"},
+        {"word": "কলা", "meaningEn": "Banana", "pronEn": "Kola", "emoji": "🍌"},
+        {"word": "পেয়ারা", "meaningEn": "Guava", "pronEn": "Peyara", "emoji": "🍐"},
+        {"word": "ভাত", "meaningEn": "Rice", "pronEn": "Bhat", "emoji": "🍚"},
+        {"word": "মাছ", "meaningEn": "Fish", "pronEn": "Machh", "emoji": "🐟"},
+        {"word": "দুধ", "meaningEn": "Milk", "pronEn": "Dudh", "emoji": "🥛"},
+        {"word": "পানি", "meaningEn": "Water", "pronEn": "Pani", "emoji": "💧"}
+      ]
+    }
+  ]
+}

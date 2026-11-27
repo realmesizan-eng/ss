@@ -1,0 +1,51 @@
+{
+  "level": 3,
+  "titleBn": "স্তর ৩: যুক্তবর্ণের শব্দ",
+  "isPremium": true,
+  "lessons": [
+    {
+      "id": "r3_1",
+      "title": "বন্ধু ও সূর্য",
+      "text": "বন্ধু পদ্ম সূর্য বিদ্যালয়।",
+      "words": [
+        {"word": "বন্ধু", "meaning": "Friend", "emoji": "🤝"},
+        {"word": "পদ্ম", "meaning": "Lotus", "emoji": "🪷"},
+        {"word": "সূর্য", "meaning": "Sun", "emoji": "☀️"},
+        {"word": "বিদ্যালয়", "meaning": "School", "emoji": "🏫"}
+      ]
+    },
+    {
+      "id": "r3_2",
+      "title": "আনন্দ ও শান্তি",
+      "text": "আনন্দ শান্তি ক্ষমা জ্ঞান।",
+      "words": [
+        {"word": "আনন্দ", "meaning": "Joy", "emoji": "😊"},
+        {"word": "শান্তি", "meaning": "Peace", "emoji": "🕊️"},
+        {"word": "ক্ষমা", "meaning": "Forgiveness", "emoji": "🙏"},
+        {"word": "জ্ঞান", "meaning": "Knowledge", "emoji": "💡"}
+      ]
+    },
+    {
+      "id": "r3_3",
+      "title": "বৃষ্টি ও স্বপ্ন",
+      "text": "বৃষ্টি স্বপ্ন মিষ্টি গল্প।",
+      "words": [
+        {"word": "বৃষ্টি", "meaning": "Rain", "emoji": "🌧️"},
+        {"word": "স্বপ্ন", "meaning": "Dream", "emoji": "✨"},
+        {"word": "মিষ্টি", "meaning": "Sweet", "emoji": "🍬"},
+        {"word": "গল্প", "meaning": "Story", "emoji": "📚"}
+      ]
+    },
+    {
+      "id": "r3_4",
+      "title": "সুন্দর ও প্রিয়",
+      "text": "সুন্দর প্রিয় মঙ্গল সপ্তাহ।",
+      "words": [
+        {"word": "সুন্দর", "meaning": "Beautiful", "emoji": "🌺"},
+        {"word": "প্রিয়", "meaning": "Dear", "emoji": "❤️"},
+        {"word": "মঙ্গল", "meaning": "Wellbeing", "emoji": "🌟"},
+        {"word": "সপ্তাহ", "meaning": "Week", "emoji": "📅"}
+      ]
+    }
+  ]
+}
